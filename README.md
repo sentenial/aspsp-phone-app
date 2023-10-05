@@ -19,6 +19,7 @@ This application simulates a banking application, this will allow you to test
 # Logging in
 The application will only be invoked via deeplinking, you should never need to start the application yourself.
 See the developer docs at https://developer.nuapay.com for more test bank details
+ - https://developer.nuapay.com/ob_sandbox.html
 
 # Credentials
  - Username: psu
