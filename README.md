@@ -17,5 +17,8 @@ This application simulates a banking application, this will allow you to test
     - You will be prompted to Install the app. Go ahead and follow the instructions to install.
       
 # Logging in
-The application will only be invoked via deeplinking, you should never need to start the application yourself. 
+The application will only be invoked via deeplinking, you should never need to start the application yourself.
+See the developer docs at https://developer.nuapay.com for more test bank details
+Username: psu
+Password: psu
 
