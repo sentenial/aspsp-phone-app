@@ -1,7 +1,7 @@
 # aspsp-phone-app
 This repository contains the ionic phone executable for the Nuapay Test ASPSP
 - This application is intended to be used on our sandbox environment. https://sandbox.nuapay.com
-- The executable is called **signed.apk**
+- The executable is called **universal.apk**
     
 # Purpose
 This application simulates a banking application, this will allow you to test
