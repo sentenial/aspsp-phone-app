@@ -19,7 +19,7 @@ This application simulates a banking application, this will allow you to test
     - On the next page agree to allow the app to make APK installs.
     - You will be prompted to Install the app. Go ahead and follow the instructions to install.
 
-# How to install this ipa for IOS via a Apple Computer
+# How to install this ipa for IOS via an Apple Computer
 - Connect your iOS device via USB, then open Xcode
 - From the Window menu, select "Devices and Simulators"
 - Select your device from the list of devices, then use the "+" sign to install the .ipa.
