@@ -11,7 +11,7 @@ This application simulates a banking application, this will allow you to test
 - denying payments
 - deeplinking activation of the banking app
 
-# How to install this apk for androind
+# How to install this apk for Android
 - Browse to the apk file.
 - Select the file to start the installation.
 - You’ll receive a warning at the bottom of the phone letting you know that you must give that app permission to install the file.
@@ -25,7 +25,7 @@ This application simulates a banking application, this will allow you to test
 - Select your device from the list of devices, then use the "+" sign to install the .ipa.
 - Thats it!
 
-# Using iTunes (Legacy Method) via a Windows Computer
+# How to install this ipa for IOS Using iTunes (Legacy Method)
 This method works with older versions of iTunes (12.7 or earlier), where app management is still available.
 - Install an Older Version of iTunes: Download and install iTunes 12.7 or earlier from Apple's iTunes download page.
 - Connect Your iPhone: Connect your iPhone to your Windows computer using a USB cable.
