@@ -19,12 +19,24 @@ This application simulates a banking application, this will allow you to test
     - On the next page agree to allow the app to make APK installs.
     - You will be prompted to Install the app. Go ahead and follow the instructions to install.
 
-# How to install this ipa for IOS
+# How to install this ipa for IOS via a Apple Computer
 - Connect your iOS device via USB, then open Xcode
 - From the Window menu, select "Devices and Simulators"
 - Select your device from the list of devices, then use the "+" sign to install the .ipa.
-Thats it!
-      
+- Thats it!
+
+# Using iTunes (Legacy Method) via a Windows Computer
+This method works with older versions of iTunes (12.7 or earlier), where app management is still available.
+- Install an Older Version of iTunes: Download and install iTunes 12.7 or earlier from Apple's iTunes download page.
+- Connect Your iPhone: Connect your iPhone to your Windows computer using a USB cable.
+- Add IPA to iTunes:
+    - Open iTunes and go to the "Apps" section.
+    - Drag and drop your IPA file into iTunes.
+ - Sync Your iPhone:
+    - Select your device in iTunes.
+    - Go to the "Apps" tab and ensure your app is checked.
+    - Click "Sync" to install the app.
+
 # Logging in
 The application will only be invoked via deeplinking, you should never need to start the application yourself.
 See the developer docs at https://developer.nuapay.com for more test bank details
